@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 48" fill="none">
+  <rect x="0" y="4" width="40" height="40" rx="10" fill="url(#logoGrad)"/>
+  <path d="M10 16h20v4H10v-4zm0 8h14v4H10v-4zm0 8h18v4H10v-4z" fill="white" fill-opacity=".95"/>
+  <text x="52" y="32" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="20" font-weight="700" fill="currentColor">PDF,0y'</text>
+  <defs>
+    <linearGradient id="logoGrad" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F04BA0"/>
+      <stop offset=".55" stop-color="#C65EF5"/>
+      <stop offset="1" stop-color="#8B6CFF"/>
+    </linearGradient>
+  </defs>
+</svg>
